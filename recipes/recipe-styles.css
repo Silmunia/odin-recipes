@@ -1,11 +1,33 @@
 body {
     background-color: rgb(255, 181, 147);
+    padding-bottom: 20px;
 }
 
 h1, h2, p, ol, ul {
     font-family: Verdana, sans-serif;
+    margin: 10px;
 }
 
-ul {
-    font-family: Verdana, sans-serif;
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+p {
+    margin-bottom: 20px;;
+}
+
+img {
+    background-color: rgb(240, 240, 240);
+    padding: 10px;
+    margin: 0px auto;
+    display: block;
+}
+
+li {
+    margin-bottom: 5px;
+    margin-right: 15px;
 }
