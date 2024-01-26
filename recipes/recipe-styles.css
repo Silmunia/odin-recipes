@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(255, 181, 147);
+}
+
+h1, h2, p, ol, ul {
+    font-family: Verdana, sans-serif;
+}
+
+ul {
+    font-family: Verdana, sans-serif;
+}

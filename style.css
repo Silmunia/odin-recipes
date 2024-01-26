@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 181, 147);
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    font-family: Verdana, sans-serif;
+}
